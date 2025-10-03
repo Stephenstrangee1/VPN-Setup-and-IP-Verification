@@ -20,7 +20,8 @@ To understand the role of VPNs in protecting privacy and ensuring secure communi
 ## Findings
 - ✅ Original IP was masked successfully after VPN connection.  
 - ✅ Traffic encryption confirmed (HTTPS + VPN tunnel).  
-- ⚠ Browsing speed slightly decreased compared to normal connection.  
+- ⚠ Unusual result: VPN connection showed slightly higher speed than normal.  
+(Possible reason: ISP throttling bypassed by VPN tunnel).      
 - ✅ VPN provided anonymity by hiding my real IP.  
 
 ## Screenshots
