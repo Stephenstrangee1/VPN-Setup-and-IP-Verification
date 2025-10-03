@@ -25,15 +25,15 @@ To understand the role of VPNs in protecting privacy and ensuring secure communi
 
 ## Screenshots
 - **VPN Connected**  
-<img width="1918" height="1078" alt="2-vpn_connected" src="https://github.com/user-attachments/assets/cb2e42f2-7985-4f0d-b536-56dfa3ecb655" />
+<img width="1918" height="1078" alt="2-vpn_connected" src="https://github.com/user-attachments/assets/2e1e7028-4be9-4a56-b803-cf3dd62568ee" />
 
 
 - **IP Changed (With VPN)**  
-  <img width="1918" height="1078" alt="3-ip_changed" src="https://github.com/user-attachments/assets/c0a4a9ee-edbb-4514-a1dc-6a434776f715" />
+<img width="1918" height="1078" alt="3-ip_changed" src="https://github.com/user-attachments/assets/fe87e076-177a-4139-8fea-84b517ab6cca" />
 
 
 - **Without VPN (Original IP)**  
- <img width="1918" height="1078" alt="1-vpn_disconnected" src="https://github.com/user-attachments/assets/f668e4ef-5317-40b0-b9da-6e1af1af4b64" />
+<img width="1918" height="1078" alt="1-vpn_disconnected" src="https://github.com/user-attachments/assets/43329cd0-4334-4c57-8378-95e4973168db" />
 
 
 ## Key Learnings
