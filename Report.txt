@@ -1,0 +1,45 @@
+=============================
+ Cyber Security Internship
+ Task: VPN Privacy and Secure Communication
+=============================
+
+Objective:
+----------
+Understand the role of VPNs in protecting privacy and secure communication.
+
+Tools:
+------
+- ProtonVPN (Free Tier)
+- Windscribe VPN (Free Plan)
+- whatismyipaddress.com (to verify IP change)
+
+Steps Performed:
+----------------
+1. Chose ProtonVPN as the free VPN service.
+2. Downloaded and installed the ProtonVPN client.
+3. Connected to a VPN server (India - Bangalore).
+4. Verified IP address change on whatismyipaddress.com.
+5. Confirmed secure browsing with encrypted tunnel.
+6. Disconnected VPN and checked difference in speed and IP.
+7. Researched VPN protocols, encryption, and privacy features.
+
+Findings:
+---------
+- Original IP Address: [Your Real IP here]
+- VPN IP Address: [VPN Assigned IP here]
+- Connection: Successful, traffic encrypted
+- Browsing Speed: Slightly slower compared to normal
+- Security: Improved privacy and data protection
+
+Key Learnings:
+--------------
+- VPN hides the real IP and prevents tracking.
+- Provides encryption via secure tunneling protocols.
+- Protects data on public Wi-Fi and untrusted networks.
+- VPN cannot guarantee 100% anonymity but adds strong security.
+- Free VPNs are limited in speed, servers, and reliability.
+
+Final Outcome:
+--------------
+Successfully connected and tested VPN functionality.
+Documented results and screenshots for validation.
